@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3944b563-e34e-4f3d-9ce1-921a7607be9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Archive(1).ipr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Archive(1).iws" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Many.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b.diff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/better.diff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/f_to_rafal.diff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/redscare (1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/redscare (2).iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/redscare.iws" beforeDir="false" afterPath="$PROJECT_DIR$/redscare.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Some.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Some.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Alternate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Djikstra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Few.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Many.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/None.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Parser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Some.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,39 +15,31 @@
     <session id="-420797283">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1328" />
-          <entry key="XML" value="14" />
+          <entry key="JAVA" value="1006" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="42" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="3" />
-          <entry key="java" value="42" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1328" />
-          <entry key="xml" value="14" />
+          <entry key="java" value="1006" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -80,56 +48,64 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1462" />
+          <entry key="java" value="914" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1462" />
+          <entry key="JAVA" value="914" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="30" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="30" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="4">
+              <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#1109#1110#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Some.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#1836#1837#0" expanded="true" />
-                <element signature="e#1888#1889#0" expanded="true" />
+                <element signature="e#2633#2634#0" expanded="true" />
+                <element signature="e#2731#2732#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,45 +114,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FlowEdge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#3985#3986#0" expanded="true" />
+                <element signature="e#4009#4010#0" expanded="true" />
+                <element signature="e#4161#4162#0" expanded="true" />
+                <element signature="e#4292#4293#0" expanded="true" />
+                <element signature="e#4323#4324#0" expanded="true" />
+                <element signature="e#4440#4441#0" expanded="true" />
+                <element signature="e#4467#4468#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1125#1126#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1254#1255#0" expanded="true" />
-                <element signature="e#1282#1283#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Few.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Djikstra.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -191,7 +148,6 @@
       <find>red</find>
       <find>initial flow is infea</find>
       <find>Initial flow</find>
-      <find>directed</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -211,19 +167,12 @@
         <option value="$PROJECT_DIR$/Many.java" />
         <option value="$PROJECT_DIR$/None.java" />
         <option value="$PROJECT_DIR$/Some.java" />
-        <option value="$PROJECT_DIR$/src/Alternate.java" />
-        <option value="$PROJECT_DIR$/src/Base.java" />
         <option value="$PROJECT_DIR$/src/Djikstra.java" />
-        <option value="$PROJECT_DIR$/src/Edge.java" />
-        <option value="$PROJECT_DIR$/src/Graph.java" />
-        <option value="$PROJECT_DIR$/src/IProblem.java" />
-        <option value="$PROJECT_DIR$/src/Node.java" />
-        <option value="$PROJECT_DIR$/src/Parser.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/None.java" />
-        <option value="$PROJECT_DIR$/src/Few.java" />
-        <option value="$PROJECT_DIR$/src/Many.java" />
+        <option value="$PROJECT_DIR$/src/Base.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/Graph.java" />
+        <option value="$PROJECT_DIR$/src/Parser.java" />
         <option value="$PROJECT_DIR$/src/Some.java" />
       </list>
     </option>
@@ -241,9 +190,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="961" />
+    <option name="width" value="965" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -251,6 +200,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,15 +218,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;Database.Settings&#10;settings &#9;ACTION&#9;CollectSettings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RedScare-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -300,9 +248,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="src.Main" />
       <module name="redscare" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/data/P3.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-17.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-2000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-2500.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-3000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-3500.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-4000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-4500.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-5000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-1-5757.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-2000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-2500.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-3000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-3500.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-4000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-4500.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-5000.txt&quot; &quot;$PROJECT_DIR$/data/rusty-2-5757.txt&quot; &quot;$PROJECT_DIR$/data/ski-illustration.txt&quot; &quot;$PROJECT_DIR$/data/ski-level10-1.txt&quot; &quot;$PROJECT_DIR$/data/ski-level10-2.txt&quot; &quot;$PROJECT_DIR$/data/ski-level10-3.txt&quot; &quot;$PROJECT_DIR$/data/ski-level20-1.txt&quot; &quot;$PROJECT_DIR$/data/ski-level20-2.txt&quot; &quot;$PROJECT_DIR$/data/ski-level20-3.txt&quot; &quot;$PROJECT_DIR$/data/ski-level3-1.txt&quot; &quot;$PROJECT_DIR$/data/ski-level3-2.txt&quot; &quot;$PROJECT_DIR$/data/ski-level3-3.txt&quot; &quot;$PROJECT_DIR$/data/ski-level5-1.txt&quot; &quot;$PROJECT_DIR$/data/ski-level5-2.txt&quot; &quot;$PROJECT_DIR$/data/ski-level5-3.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-10-0.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-10-1.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-20-0.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-20-1.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-3-0.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-3-1.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-30-0.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-30-1.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-40-0.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-40-1.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-50-0.txt&quot; &quot;$PROJECT_DIR$/data/smallworld-50-1.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-1.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-10.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-100.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-1000.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-10000.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-2.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-3.txt&quot; &quot;$PROJECT_DIR$/data/wall-n-4.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-1.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-10.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-100.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-1000.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-10000.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-2.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-3.txt&quot; &quot;$PROJECT_DIR$/data/wall-p-4.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-1.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-10.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-100.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-1000.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-10000.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-2.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-3.txt&quot; &quot;$PROJECT_DIR$/data/wall-z-4.txt&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\geusa\Documents\ITU\Algorithm Design\algorithms\redscare\data\common-2-500.txt&quot;" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -319,43 +267,40 @@
       <option name="presentableId" value="Default" />
       <updated>1541715609064</updated>
       <workItem from="1541856599512" duration="4809000" />
-      <workItem from="1543153744392" duration="744000" />
-      <workItem from="1543154601377" duration="74000" />
-      <workItem from="1543159025903" duration="7224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12851000" />
+    <option name="totallyTimeSpent" value="4809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1624161" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2773925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Learn" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.72327965" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37774524" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3422222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40296295" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.15373352" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.9077599" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32866243" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3288889" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3281879" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32871014" />
     </layout>
     <layout-to-restore>
       <window_info id="Learn" order="0" />
@@ -396,41 +341,86 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FordFulkerson.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FordFulkerson.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FordFulkerson.java</url>
           <line>203</line>
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Some.java</url>
-          <line>59</line>
+          <url>jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FordFulkerson.java</url>
+          <line>65</line>
           <properties />
-          <option name="timeStamp" value="75" />
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Parser.java</url>
-          <line>42</line>
+          <url>jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FordFulkerson.java</url>
+          <line>170</line>
           <properties />
-          <option name="timeStamp" value="78" />
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="flowNetwork.adj[0]" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Problem.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Scanner.java" />
-    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FlowNetwork.java" />
-    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/Bag.java" />
-    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FlowEdge.java" />
-    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FordFulkerson.java" />
-    <entry file="file://$PROJECT_DIR$/src/Base.java">
+    <entry file="file://$PROJECT_DIR$/src/Alternate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Few.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/None.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Djikstra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#146#147#0" expanded="true" />
@@ -438,132 +428,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IProblem.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Edge.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Djikstra.java">
+    <entry file="file://$PROJECT_DIR$/src/Many.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Alternate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/princeton-java-algorithms/algorithms/4.0.1/algorithms-4.0.1.jar!/edu/princeton/cs/algorithms/Edge.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/princeton-java-algorithms/algorithms/4.0.1/algorithms-4.0.1.jar!/edu/princeton/cs/algorithms/FlowEdge.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/princeton-java-algorithms/algorithms/4.0.1/algorithms-4.0.1.jar!/edu/princeton/cs/algorithms/Digraph.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="386">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="88">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1282#1283#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/None.java">
+    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FlowEdge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
+        <state relative-caret-position="304">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#3985#3986#0" expanded="true" />
+            <element signature="e#4009#4010#0" expanded="true" />
+            <element signature="e#4161#4162#0" expanded="true" />
+            <element signature="e#4292#4293#0" expanded="true" />
+            <element signature="e#4323#4324#0" expanded="true" />
+            <element signature="e#4440#4441#0" expanded="true" />
+            <element signature="e#4467#4468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="e#2881#2882#0" expanded="true" />
+            <element signature="e#2935#2936#0" expanded="true" />
+            <element signature="e#3153#3154#0" expanded="true" />
+            <element signature="e#3192#3193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FlowNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#4098#4099#0" expanded="true" />
+            <element signature="e#4122#4123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/algs4.jar!/edu/princeton/cs/algs4/FordFulkerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1011">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Some.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#2633#2634#0" expanded="true" />
+            <element signature="e#2731#2732#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Few.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Many.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="22" column="75" lean-forward="true" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Some.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#1836#1837#0" expanded="true" />
-            <element signature="e#1888#1889#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="4">
+          <caret line="34" column="43" lean-forward="true" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
         </state>
       </provider>
     </entry>
